@@ -1,9 +1,7 @@
-# Olá, eu sou o Ponciano 👋
+# Hey, I'm Ponciano 👋
 
-Vivo no ecossistema **SAP** — desenvolvimento ABAP é minha base.
+I develop in the SAP ecosystem.
 
-Também transito bem pelo mundo **Web** e estou explorando o universo de **MCP (Model Context Protocol)**.
+Building for the Web.
 
-Acredito que boas soluções vêm de quem entende o problema, não só a ferramenta.
-
-📍 Brazil 
+Exploring the AI universe.
